@@ -4,7 +4,7 @@ Hack4art (2019) adlı sanat teknolojileri hackathonunda ReDesign ekibi olarak ik
 
 Hackathon Bilgisi:
 - İsim: Hack4art
-- Tarih: Oct 25-26, 2019
+- Tarih: 25-26 Ekim 2019
 - Düzenleyen: [İzmir Ege Üniversitesi](https://ege.edu.tr/eng-0/homepage.html), [EBİLTEM Teknoloji Transfer Ofisi](https://ebiltem.ege.edu.tr/), [Goethe Enstitüsü Kültür için Alan Fonu Desteği](https://kulturicinalan.com)
 - İnternet Sitesi: [hack4art.com](https://web.archive.org/web/20200318214714/https://www.hack4art.com/)
 

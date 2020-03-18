@@ -21,7 +21,7 @@ Genel | Genel RGB
 
 Doktor       | Hasta Bakıcı  | Hemşire
 ------------ | ------------- | -------------
-![Genel](images/meslek_doktor.jpg) | ![Genel RGB](images/meslek_hbakici.jpg) | ![Genel RGB](images/meslek_hemsire.jpg)
+![Doktor](images/meslek_doktor.jpg) | ![Hasta Bakıcı](images/meslek_hbakici.jpg) | ![Hemşire](images/meslek_hemsire.jpg)
 
 # Copyright
 Copyright (c) 2019, ReDesign Team. All rights are reserved.
